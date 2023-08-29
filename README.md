@@ -4,9 +4,11 @@
 Project in the field of artificial intelligence and chatbot construction
 But consider that only the backend of the system was handled and the pattern design was done by Dialog Flow
 
-![CSS3](https://github.com/nzrnaghme/CCTV/assets/66174781/e82adab5-64a3-409e-a934-7314ba24b46e?style=for-the-badge&logo=css3&logoColor=white)
+<img width="75" alt="Python-logo-notext svg" src="https://github.com/nzrnaghme/CCTV/assets/66174781/cbd204af-1b1a-42e4-9996-fc3d899503a4">
+<img width="200" alt="Python-logo-notext svg" src="https://github.com/nzrnaghme/CCTV/assets/66174781/e82adab5-64a3-409e-a934-7314ba24b46e">
 <img width="108" alt="uvicorn" src="https://github.com/nzrnaghme/CCTV/assets/66174781/a0ecba05-7ffe-485b-b448-632432c3eec8">
 <img width="140" alt="Pandas_logo svg" src="https://github.com/nzrnaghme/CCTV/assets/66174781/4f564113-05ee-41da-a0a6-8b9f52439dc6">
+
 
 ## Used By
 
